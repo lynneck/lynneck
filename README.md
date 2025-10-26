@@ -56,7 +56,7 @@ Aqui estão algumas das tecnologias com as quais trabalho:
         <img 
             alt="Selos" 
             title="Total de selos" 
-            src="https://custom-icon-badges.demolab.com/github/followers/Lynneck?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=red"
+            src="https://custom-icon-badges.demolab.com/github/followers/Lynneck?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Selos&logoColor=red"
         />
     </a>
 </p>
