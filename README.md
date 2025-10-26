@@ -85,11 +85,16 @@ Aqui estão algumas das tecnologias com as quais trabalho:
 
 </p>
 
+
+
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+
 ---
-
-<br/>
-<br/>
-
 
 <p>
   Contato
