@@ -101,7 +101,7 @@ Aqui estão algumas das tecnologias com as quais trabalho:
 ---
 
 <p>
-  Contato
+  Contatos:
 </p>  
 
   - lynneckmartins@hotmail.com
