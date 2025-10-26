@@ -85,8 +85,9 @@ Aqui estão algumas das tecnologias com as quais trabalho:
 
 </p>
 
-Contato
+---
 
+Contato
   - lynneckmartins@hotmail.com
   - (https://www.linkedin.com/in/paulo-lynneck-6ab056231/)
 
