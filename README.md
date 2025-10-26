@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 ### **`Desenvolvedor Fullstack`**
 
 
-Sou Paulo ynneck, tenho 33 anos e sou natural de São Luís - MA.
+Sou Paulo Lynneck, tenho 33 anos e sou natural de São Luís - MA.
 
 ## Formação
 
