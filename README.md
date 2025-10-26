@@ -34,12 +34,11 @@ Aqui estão algumas das tecnologias com as quais trabalho:
 
 
 <p align="left">
-
-    <a href="https://github.com/lynneck?tab=repositories">
+  <a href="https://github.com/Lynneck?tab=repositories&sort=stargazers">
         <img 
             alt="Total de estrelas" 
             title="Total de estrelas GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/lynneck?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
+            src="https://custom-icon-badges.demolab.com/github/stars/Lynneck?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
         />
     </a>
     <a href="https://github.com/Lynneck?tab=followers">
@@ -50,6 +49,8 @@ Aqui estão algumas das tecnologias com as quais trabalho:
         />
     </a>
 </p>
+
+---
 
 Contato
 
